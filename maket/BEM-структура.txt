@@ -1,0 +1,53 @@
+b:page
+	e:line
+		b:header
+			e:line
+				b:content
+					e:column
+						b:logo
+					e:column
+						b:town
+					e:column
+						b:login
+				b:slider
+					e:img
+				b:find
+					e:line
+						b:view
+					e:line
+						b:distict
+					e:line
+						b:metro
+					e:line
+						e:button					
+				b:add
+					e:button
+	e:line
+		b:content
+			e:label
+			e:header
+			e:line
+				b:list						
+					e:column
+						b:item
+							e:star	
+							e:thumbnail
+							e:address
+							e:metro
+							e:map
+							e:description						
+			
+			e:more
+			
+			b:description
+				e:header
+				e:article
+	e:line
+		b:footer
+			e:logo
+			b:link
+				e:item
+			b:social
+				e:item
+			e:link
+			
